@@ -4,6 +4,7 @@ the development of a comprehensive dashboard. The project involved collecting an
 
 ## Video
 Here is the link to the video which describes the dashboard and the insights.
+https://drive.google.com/file/d/122AXmZkTfsTjnd5xqA-2ny6q6nduz-UJ/view?usp=drive_link
 
 ##  Data Source:
 Utilizing a comprehensive dataset from the Global Superstore containing information on sales, products, customers, and regions.
